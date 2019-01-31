@@ -1,6 +1,4 @@
-<!DOCTYPE HTML>
-<html>
-<head>
+
 <title>SOWMYA | Profile</title>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
@@ -25,7 +23,7 @@
 	</script>
  
 <!---- start-smoth-scrolling---->
-</head>
+
 
 <body>
 <!-- header -->
@@ -372,4 +370,3 @@
 <script src="js/bootstrap.js"></script>
 
 	</body>
-</html>
